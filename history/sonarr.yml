@@ -1,7 +1,7 @@
-url: https://sonarr.bonny.pw
+url: $URLS_SONARR
 status: up
 code: 200
-responseTime: 256
-lastUpdated: 2021-04-28T17:52:06.274Z
+responseTime: 782
+lastUpdated: 2021-04-28T18:58:27.890Z
 startTime: Wed Apr 28 2021 17:39:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
