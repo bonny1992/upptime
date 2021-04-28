@@ -25,8 +25,6 @@ sites:
     url: $URLS_RADARR
   - name: Lidarr
     url: $URLS_LIDARR
-  - name: Non-working website (Test)
-    url: https://status333.bonny.pw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
