@@ -4,25 +4,27 @@ repo: status # The name of this repository
 
 sites:
   - name: Affiliate
-    url: https://affiliate.bonny.pw
+    url: $URLS_AFFILIATE
   - name: Bonosaglass.com
-    url: https://bonosaglass.com
+    url: $URLS_BGLASS
   - name: Jackett
-    url: https://jackett.bonny.pw
+    url: $URLS_JACKETT
   - name: Ombi
-    url: https://ombi.bonny.pw
+    url: $URLS_OMBI
   - name: Overseerr
-    url: https://overseerr.bonny.pw
+    url: $URLS_OVERSEERR
   - name: Deluge
-    url: https://delugevpn.bonny.pw
+    url: $URLS_DELUGE
   - name: NZBGet
-    url: https://nzbget.bonny.pw
+    url: $URLS_NZBGET
+  - name: NZBHydra2
+    url: $URLS_NZBHYDRA
   - name: Sonarr
-    url: https://sonarr.bonny.pw
+    url: $URLS_SONARR
   - name: Radarr
-    url: https://radarr.bonny.pw
-  - name: Sonarr
-    url: https://sonarr.bonny.pw
+    url: $URLS_RADARR
+  - name: Lidarr
+    url: $URLS_LIDARR
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
