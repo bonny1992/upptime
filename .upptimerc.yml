@@ -41,6 +41,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: More problems? Report it here
+      href: https://github.com/$OWNER/$REPO/status/issues
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
