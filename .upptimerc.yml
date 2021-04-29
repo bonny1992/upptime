@@ -25,6 +25,16 @@ sites:
     url: $URLS_RADARR
   - name: Lidarr
     url: $URLS_LIDARR
+  - name: PlexPy
+    url: $URLS_PLEXPY
+  - name: Filebot
+    url: $URLS_FILEBOT
+  - name: Synclounge
+    url: $URLS_SYNCLOUNGE
+  - name: Bazarr
+    url: $URLS_BAZARR
+  - name: NextCloud
+    url: $URLS_NEXTCLOUD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,7 +44,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bonny Status Page
   introTitle: "Bonny Status Page - Powered by Upptime.js"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/bonny1992/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/bonny1992/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: dark
   navbar:
     - title: Status
