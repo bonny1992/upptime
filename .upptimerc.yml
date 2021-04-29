@@ -31,8 +31,9 @@ sites:
     url: $URLS_FILEBOT
     expectedStatusCodes:
       - 401 # As it's behind user+pass
-  - name: Synclounge
-    url: $URLS_SYNCLOUNGE
+  # - name: Synclounge
+  #   url: $URLS_SYNCLOUNGE
+  # Commented this out because it's not working at this time
   - name: Bazarr
     url: $URLS_BAZARR
   - name: NextCloud
@@ -48,6 +49,8 @@ status-website:
   introTitle: "Bonny Status Page - Powered by Upptime.js"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/bonny1992/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: dark
+  assignees:
+    - bonny1992
   navbar:
     - title: Status
       href: /
