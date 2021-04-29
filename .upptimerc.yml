@@ -29,6 +29,8 @@ sites:
     url: $URLS_PLEXPY
   - name: Filebot
     url: $URLS_FILEBOT
+    expectedStatusCodes:
+      - 401 # As it's behind user+pass
   - name: Synclounge
     url: $URLS_SYNCLOUNGE
   - name: Bazarr
