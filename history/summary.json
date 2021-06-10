@@ -24,8 +24,8 @@
     "slug": "bonosaglass-com",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "81.91%",
-    "uptimeWeek": "97.42%",
+    "uptimeDay": "81.90%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.57%",
     "time": 1273,
@@ -116,19 +116,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-io",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-06-10": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Deluge",
