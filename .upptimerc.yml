@@ -9,10 +9,14 @@ sites:
     url: $URLS_BGLASS
   - name: Jackett
     url: $URLS_JACKETT
+  - name: Prowlarr
+    url: $URLS_PROWLARR
   - name: Ombi
     url: $URLS_OMBI
   - name: Overseerr
     url: $URLS_OVERSEERR
+  - name: PetIO
+    url: $URLS_PETIO
   - name: Deluge
     url: $URLS_DELUGE
   - name: NZBGet
