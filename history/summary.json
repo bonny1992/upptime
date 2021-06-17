@@ -4,18 +4,20 @@
     "url": "$URLS_AFFILIATE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "affiliate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 471,
-    "timeWeek": 507,
-    "timeMonth": 555,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 601,
+    "timeDay": 339,
+    "timeWeek": 457,
+    "timeMonth": 546,
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2021-06-17": 1
+    }
   },
   {
     "name": "Bonosaglass.com",
@@ -23,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bonosaglass-com",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 1246,
     "timeDay": 987,
-    "timeWeek": 1108,
+    "timeWeek": 1083,
     "timeMonth": 1187,
     "timeYear": 1246,
     "dailyMinutesDown": {
@@ -43,234 +45,260 @@
     "url": "$URLS_JACKETT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jackett",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 798,
     "timeDay": 612,
-    "timeWeek": 725,
+    "timeWeek": 699,
     "timeMonth": 784,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 1
+    }
   },
   {
     "name": "Prowlarr",
     "url": "$URLS_PROWLARR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prowlarr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 606,
     "timeDay": 515,
-    "timeWeek": 589,
+    "timeWeek": 567,
     "timeMonth": 606,
     "timeYear": 606,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 1
+    }
   },
   {
     "name": "Ombi",
     "url": "$URLS_OMBI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ombi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 466,
-    "timeWeek": 485,
+    "timeWeek": 467,
     "timeMonth": 543,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 1
+    }
   },
   {
     "name": "Overseerr",
     "url": "$URLS_OVERSEERR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 972,
-    "timeWeek": 1088,
-    "timeMonth": 1136,
-    "timeYear": 1199,
-    "dailyMinutesDown": {}
+    "time": 1185,
+    "timeDay": 593,
+    "timeWeek": 932,
+    "timeMonth": 1110,
+    "timeYear": 1185,
+    "dailyMinutesDown": {
+      "2021-06-17": 1
+    }
   },
   {
     "name": "PetIO",
     "url": "$URLS_PETIO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pet-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 449,
-    "timeWeek": 459,
+    "timeWeek": 442,
     "timeMonth": 472,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "Deluge",
     "url": "$URLS_DELUGE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "deluge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 502,
     "timeDay": 387,
-    "timeWeek": 437,
+    "timeWeek": 417,
     "timeMonth": 490,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "NZBGet",
     "url": "$URLS_NZBGET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 926,
     "timeDay": 807,
-    "timeWeek": 862,
+    "timeWeek": 827,
     "timeMonth": 909,
     "timeYear": 926,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "NZBHydra2",
     "url": "$URLS_NZBHYDRA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzb-hydra2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
     "timeDay": 506,
-    "timeWeek": 569,
+    "timeWeek": 545,
     "timeMonth": 618,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "Sonarr",
     "url": "$URLS_SONARR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 568,
-    "timeWeek": 582,
+    "timeWeek": 556,
     "timeMonth": 625,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "Radarr",
     "url": "$URLS_RADARR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
     "timeDay": 521,
-    "timeWeek": 580,
+    "timeWeek": 553,
     "timeMonth": 616,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "Lidarr",
     "url": "$URLS_LIDARR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lidarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 667,
     "timeDay": 503,
-    "timeWeek": 573,
+    "timeWeek": 546,
     "timeMonth": 687,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "PlexPy",
     "url": "$URLS_PLEXPY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex-py",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
     "timeDay": 652,
-    "timeWeek": 726,
+    "timeWeek": 693,
     "timeMonth": 765,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "Filebot",
     "url": "$URLS_FILEBOT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "filebot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 378,
-    "timeWeek": 441,
+    "timeWeek": 423,
     "timeMonth": 450,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "Synclounge",
@@ -285,11 +313,11 @@
     "uptimeYear": "0.00%",
     "time": 449,
     "timeDay": 375,
-    "timeWeek": 424,
+    "timeWeek": 405,
     "timeMonth": 441,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2021-06-17": 12,
+      "2021-06-17": 833,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
       "2021-06-14": 1440,
@@ -346,35 +374,39 @@
     "url": "$URLS_BAZARR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bazarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1119,
     "timeDay": 387,
-    "timeWeek": 425,
+    "timeWeek": 406,
     "timeMonth": 1521,
     "timeYear": 1119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   },
   {
     "name": "NextCloud",
     "url": "$URLS_NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
     "timeDay": 574,
-    "timeWeek": 633,
+    "timeWeek": 606,
     "timeMonth": 685,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   }
 ]
