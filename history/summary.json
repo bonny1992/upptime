@@ -173,9 +173,9 @@
     "url": "$URLS_NZBHYDRA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzb-hydra2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -185,6 +185,7 @@
     "timeMonth": 635,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2021-06-26": 0,
       "2021-06-17": 27
     }
   },
@@ -301,7 +302,7 @@
     "timeMonth": 449,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-06-26": 12,
+      "2021-06-26": 450,
       "2021-06-25": 1440,
       "2021-06-24": 1440,
       "2021-06-23": 1440,
