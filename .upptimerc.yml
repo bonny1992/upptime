@@ -27,6 +27,8 @@ sites:
     url: $URLS_SONARR
   - name: Radarr
     url: $URLS_RADARR
+  - name: Radarr4k
+    url: $URLS_RADARR4K
   - name: Lidarr
     url: $URLS_LIDARR
   - name: PlexPy
