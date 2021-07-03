@@ -11,6 +11,8 @@ sites:
     url: $URLS_JACKETT
   - name: Prowlarr
     url: $URLS_PROWLARR
+  - name: Prowlarr 2
+    url: $URLS_PROWLARR2
   - name: Ombi
     url: $URLS_OMBI
   - name: Overseerr
