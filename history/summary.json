@@ -33,7 +33,7 @@
     "time": 1268,
     "timeDay": 987,
     "timeWeek": 1297,
-    "timeMonth": 1244,
+    "timeMonth": 1254,
     "timeYear": 1268,
     "dailyMinutesDown": {
       "2021-06-10": 427,
@@ -54,7 +54,7 @@
     "time": 803,
     "timeDay": 598,
     "timeWeek": 783,
-    "timeMonth": 817,
+    "timeMonth": 821,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2021-06-17": 27
@@ -128,7 +128,7 @@
     "time": 1188,
     "timeDay": 931,
     "timeWeek": 1091,
-    "timeMonth": 1150,
+    "timeMonth": 1154,
     "timeYear": 1188,
     "dailyMinutesDown": {}
   },
@@ -164,7 +164,7 @@
     "time": 502,
     "timeDay": 380,
     "timeWeek": 496,
-    "timeMonth": 502,
+    "timeMonth": 505,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -182,7 +182,7 @@
     "time": 930,
     "timeDay": 721,
     "timeWeek": 924,
-    "timeMonth": 939,
+    "timeMonth": 944,
     "timeYear": 930,
     "dailyMinutesDown": {}
   },
@@ -192,18 +192,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzb-hydra2",
     "status": "down",
-    "uptime": "91.78%",
+    "uptime": "91.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "28.52%",
-    "uptimeMonth": "82.10%",
-    "uptimeYear": "91.78%",
+    "uptimeMonth": "82.08%",
+    "uptimeYear": "91.77%",
     "time": 654,
     "timeDay": 0,
     "timeWeek": 766,
-    "timeMonth": 693,
+    "timeMonth": 698,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2021-07-04": 2,
+      "2021-07-04": 12,
       "2021-07-03": 1440,
       "2021-07-02": 986,
       "2021-07-01": 99,
@@ -229,7 +229,7 @@
     "time": 634,
     "timeDay": 500,
     "timeWeek": 644,
-    "timeMonth": 674,
+    "timeMonth": 677,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2021-06-17": 27
@@ -249,7 +249,7 @@
     "time": 638,
     "timeDay": 529,
     "timeWeek": 638,
-    "timeMonth": 651,
+    "timeMonth": 654,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2021-06-17": 27
@@ -261,18 +261,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr4k",
     "status": "down",
-    "uptime": "82.15%",
-    "uptimeDay": "82.15%",
-    "uptimeWeek": "82.15%",
-    "uptimeMonth": "82.15%",
-    "uptimeYear": "82.15%",
+    "uptime": "79.31%",
+    "uptimeDay": "79.31%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "79.31%",
+    "uptimeYear": "79.31%",
     "time": 621,
     "timeDay": 621,
     "timeWeek": 621,
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2021-07-04": 0,
+      "2021-07-04": 10,
       "2021-07-03": 48
     }
   },
@@ -290,7 +290,7 @@
     "time": 669,
     "timeDay": 493,
     "timeWeek": 630,
-    "timeMonth": 651,
+    "timeMonth": 655,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2021-06-17": 27
@@ -310,7 +310,7 @@
     "time": 796,
     "timeDay": 641,
     "timeWeek": 804,
-    "timeMonth": 824,
+    "timeMonth": 827,
     "timeYear": 796,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "time": 468,
     "timeDay": 370,
     "timeWeek": 463,
-    "timeMonth": 470,
+    "timeMonth": 473,
     "timeYear": 468,
     "dailyMinutesDown": {}
   },
@@ -346,10 +346,10 @@
     "time": 457,
     "timeDay": 363,
     "timeWeek": 463,
-    "timeMonth": 466,
+    "timeMonth": 469,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2021-07-04": 2,
+      "2021-07-04": 12,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
@@ -432,7 +432,7 @@
     "time": 1021,
     "timeDay": 378,
     "timeWeek": 468,
-    "timeMonth": 708,
+    "timeMonth": 717,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2021-06-17": 27
@@ -452,7 +452,7 @@
     "time": 701,
     "timeDay": 560,
     "timeWeek": 696,
-    "timeMonth": 718,
+    "timeMonth": 722,
     "timeYear": 701,
     "dailyMinutesDown": {}
   }
