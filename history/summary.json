@@ -207,7 +207,7 @@
     "slug": "nzb-hydra2",
     "status": "up",
     "uptime": "90.07%",
-    "uptimeDay": "40.09%",
+    "uptimeDay": "40.39%",
     "uptimeWeek": "25.57%",
     "uptimeMonth": "77.82%",
     "uptimeYear": "90.07%",
@@ -277,18 +277,20 @@
     "url": "$URLS_RADARR4K",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr-quattro-k",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "94.81%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "94.81%",
     "time": 743,
     "timeDay": 743,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "Lidarr",
@@ -368,7 +370,7 @@
     "timeMonth": 472,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2021-07-05": 1013,
+      "2021-07-05": 1017,
       "2021-07-04": 1440,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
