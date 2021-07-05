@@ -88,18 +88,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prowlarr-due",
     "status": "down",
-    "uptime": "70.00%",
-    "uptimeDay": "70.00%",
-    "uptimeWeek": "70.00%",
-    "uptimeMonth": "70.00%",
-    "uptimeYear": "70.00%",
+    "uptime": "68.45%",
+    "uptimeDay": "68.45%",
+    "uptimeWeek": "68.45%",
+    "uptimeMonth": "68.45%",
+    "uptimeYear": "68.45%",
     "time": 294,
     "timeDay": 294,
     "timeWeek": 294,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2021-07-05": 88
+      "2021-07-05": 95
     }
   },
   {
@@ -209,8 +209,8 @@
     "slug": "nzb-hydra2",
     "status": "up",
     "uptime": "90.10%",
-    "uptimeDay": "60.63%",
-    "uptimeWeek": "26.68%",
+    "uptimeDay": "61.09%",
+    "uptimeWeek": "26.75%",
     "uptimeMonth": "77.82%",
     "uptimeYear": "90.10%",
     "time": 660,
@@ -279,19 +279,19 @@
     "url": "$URLS_RADARR4K",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr-quattro-k",
-    "status": "up",
-    "uptime": "57.33%",
-    "uptimeDay": "57.33%",
-    "uptimeWeek": "57.33%",
-    "uptimeMonth": "57.33%",
-    "uptimeYear": "57.33%",
+    "status": "down",
+    "uptime": "60.56%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "60.56%",
+    "uptimeMonth": "60.56%",
+    "uptimeYear": "60.56%",
     "time": 620,
     "timeDay": 620,
     "timeWeek": 620,
     "timeMonth": 620,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2021-07-05": 126
+      "2021-07-05": 119
     }
   },
   {
@@ -372,7 +372,7 @@
     "timeMonth": 472,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2021-07-05": 1309,
+      "2021-07-05": 1315,
       "2021-07-04": 1440,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
