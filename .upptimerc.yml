@@ -11,7 +11,7 @@ sites:
     url: $URLS_JACKETT
   - name: Prowlarr
     url: $URLS_PROWLARR
-  - name: Prowlarr 2
+  - name: Prowlarr.due
     url: $URLS_PROWLARR2
   - name: Ombi
     url: $URLS_OMBI
@@ -29,7 +29,7 @@ sites:
     url: $URLS_SONARR
   - name: Radarr
     url: $URLS_RADARR
-  - name: Radarr4k
+  - name: RadarrQuattroK
     url: $URLS_RADARR4K
   - name: Lidarr
     url: $URLS_LIDARR
