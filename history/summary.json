@@ -87,18 +87,20 @@
     "url": "$URLS_PROWLARR2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prowlarr-due",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 370,
     "timeDay": 370,
     "timeWeek": 370,
     "timeMonth": 370,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "Ombi",
@@ -206,11 +208,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzb-hydra2",
     "status": "up",
-    "uptime": "90.07%",
-    "uptimeDay": "46.27%",
+    "uptime": "90.08%",
+    "uptimeDay": "48.56%",
     "uptimeWeek": "25.57%",
     "uptimeMonth": "77.82%",
-    "uptimeYear": "90.07%",
+    "uptimeYear": "90.08%",
     "time": 660,
     "timeDay": 830,
     "timeWeek": 776,
@@ -278,18 +280,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr-quattro-k",
     "status": "down",
-    "uptime": "44.94%",
-    "uptimeDay": "44.94%",
-    "uptimeWeek": "44.94%",
-    "uptimeMonth": "44.94%",
-    "uptimeYear": "44.94%",
+    "uptime": "32.84%",
+    "uptimeDay": "32.84%",
+    "uptimeWeek": "32.84%",
+    "uptimeMonth": "32.84%",
+    "uptimeYear": "32.84%",
     "time": 659,
     "timeDay": 659,
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2021-07-05": 49
+      "2021-07-05": 82
     }
   },
   {
@@ -370,7 +372,7 @@
     "timeMonth": 472,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2021-07-05": 1102,
+      "2021-07-05": 1135,
       "2021-07-04": 1440,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
