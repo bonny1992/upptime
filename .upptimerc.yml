@@ -11,8 +11,9 @@ sites:
     url: $URLS_JACKETT
   - name: Prowlarr
     url: $URLS_PROWLARR
-  - name: Prowlarr.due
-    url: $URLS_PROWLARR2
+#   Continua a dare problemi
+#   - name: Prowlarr.due
+#     url: $URLS_PROWLARR2
   - name: Ombi
     url: $URLS_OMBI
   - name: Overseerr
@@ -29,8 +30,9 @@ sites:
     url: $URLS_SONARR
   - name: Radarr
     url: $URLS_RADARR
-  - name: RadarrQuattroK
-    url: $URLS_RADARR4K
+#   Continua a dare problemi
+#   - name: RadarrQuattroK
+#     url: $URLS_RADARR4K
   - name: Lidarr
     url: $URLS_LIDARR
   - name: PlexPy
