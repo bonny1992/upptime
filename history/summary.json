@@ -6,9 +6,9 @@
     "slug": "affiliate",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 670,
     "timeDay": 429,
@@ -16,7 +16,6 @@
     "timeMonth": 610,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2021-10-19": 9,
       "2021-07-05": 312,
       "2021-06-17": 27
     }
@@ -51,18 +50,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jackett",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.87%",
     "time": 809,
     "timeDay": 930,
     "timeWeek": 865,
     "timeMonth": 831,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2021-10-19": 9,
       "2021-07-05": 312,
       "2021-06-17": 27
     }
@@ -73,18 +71,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prowlarr",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.84%",
     "time": 677,
     "timeDay": 793,
     "timeWeek": 701,
     "timeMonth": 676,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2021-10-19": 9,
       "2021-07-05": 311
     }
   },
@@ -94,18 +91,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ombi",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.88%",
     "time": 541,
     "timeDay": 728,
     "timeWeek": 556,
     "timeMonth": 521,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2021-10-19": 9,
       "2021-07-05": 311
     }
   },
@@ -155,9 +151,9 @@
     "url": "$URLS_DELUGE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "deluge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -167,6 +163,7 @@
     "timeMonth": 505,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2021-10-19": 0,
       "2021-09-16": 18,
       "2021-07-05": 308
     }
@@ -344,7 +341,7 @@
     "timeMonth": 474,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2021-10-19": 1409,
+      "2021-10-19": 1418,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
       "2021-10-16": 1440,
@@ -558,7 +555,7 @@
     "timeMonth": 483,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2021-10-19": 1409,
+      "2021-10-19": 1418,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
       "2021-10-16": 1440,
