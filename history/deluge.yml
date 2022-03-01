@@ -1,7 +1,7 @@
 url: $URLS_DELUGE
-status: up
-code: 200
-responseTime: 579
-lastUpdated: 2022-02-28T23:22:19.936Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-03-01T22:49:31.040Z
 startTime: Wed Apr 28 2021 17:39:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
