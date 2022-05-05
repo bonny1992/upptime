@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Affiliate
     url: $URLS_AFFILIATE
+    slug: affiliate
   - name: Bonosaglass.com
     url: $URLS_BGLASS
   - name: Jackett
