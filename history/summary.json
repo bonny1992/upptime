@@ -14,7 +14,7 @@
     "timeDay": 465,
     "timeWeek": 498,
     "timeMonth": 577,
-    "timeYear": 613,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 811,
     "timeWeek": 840,
     "timeMonth": 925,
-    "timeYear": 1006,
+    "timeYear": 1005,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 451,
     "timeWeek": 468,
     "timeMonth": 511,
-    "timeYear": 504,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   },
   {
@@ -238,19 +238,19 @@
     "url": "$URLS_RADARR4K",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr4k",
-    "status": "down",
-    "uptime": "95.97%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
-    "time": 651,
-    "timeDay": 516,
-    "timeWeek": 516,
-    "timeMonth": 516,
-    "timeYear": 651,
+    "status": "up",
+    "uptime": "57.02%",
+    "uptimeDay": "57.02%",
+    "uptimeWeek": "57.02%",
+    "uptimeMonth": "57.02%",
+    "uptimeYear": "57.02%",
+    "time": 656,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-05-05": 1
+      "2022-05-05": 10
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeDay": 647,
     "timeWeek": 633,
     "timeMonth": 680,
-    "timeYear": 661,
+    "timeYear": 660,
     "dailyMinutesDown": {}
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 485,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2022-05-05": 1405,
+      "2022-05-05": 1415,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
