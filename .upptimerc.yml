@@ -5,50 +5,68 @@ repo: upptime # The name of this repository
 sites:
   - name: Affiliate
     url: $URLS_AFFILIATE
-    slug: affiliate-aaa
+    slug: affiliate
   - name: Bonosaglass.com
     url: $URLS_BGLASS
+    slug: bonosaglass-com
   - name: Jackett
     url: $URLS_JACKETT
+    slug: jackett
   - name: Prowlarr
     url: $URLS_PROWLARR
+    slug: prowlarr
 #   Continua a dare problemi
-#   - name: Prowlarr.due
-#     url: $URLS_PROWLARR2
+  - name: Prowlarr2
+    url: $URLS_PROWLARR2
+    slug: prowlarr2
   - name: Ombi
     url: $URLS_OMBI
+    slug: ombi
   - name: Overseerr
     url: $URLS_OVERSEERR
+    slug: overseerr
   - name: PetIO
     url: $URLS_PETIO
+    slug: petio
   - name: Deluge
     url: $URLS_DELUGE
+    slug: deluge
   - name: NZBGet
     url: $URLS_NZBGET
+    slug: nzbget
   - name: NZBHydra2
     url: $URLS_NZBHYDRA
+    slug: nzbhydra2
   - name: Sonarr
     url: $URLS_SONARR
+    slug: sonarr
   - name: Radarr
     url: $URLS_RADARR
+    slug: radarr
 #   Continua a dare problemi
-#   - name: RadarrQuattroK
-#     url: $URLS_RADARR4K
+  - name: Radarr4K
+    url: $URLS_RADARR4K
+    slug: radarr4k
   - name: Lidarr
     url: $URLS_LIDARR
+    slug: lidarr
   - name: PlexPy
     url: $URLS_PLEXPY
+    slug: plexpy
   - name: Filebot
     url: $URLS_FILEBOT
+    slug: filebot
     expectedStatusCodes:
       - 401 # As it's behind user+pass
   - name: Synclounge
     url: $URLS_SYNCLOUNGE
+    slug: synclounge
   # Will be permanently not working until Cloudbox Community releases a fixed role
   - name: Bazarr
     url: $URLS_BAZARR
   - name: NextCloud
     url: $URLS_NEXTCLOUD
+    slug: nextcloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
