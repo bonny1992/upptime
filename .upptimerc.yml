@@ -64,6 +64,7 @@ sites:
   # Will be permanently not working until Cloudbox Community releases a fixed role
   - name: Bazarr
     url: $URLS_BAZARR
+    slug: bazarr
   - name: NextCloud
     url: $URLS_NEXTCLOUD
     slug: nextcloud
