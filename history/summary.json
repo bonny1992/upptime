@@ -130,19 +130,19 @@
     "url": "$URLS_DELUGE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "deluge",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "93.19%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "90.38%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 505,
-    "timeDay": 477,
-    "timeWeek": 481,
-    "timeMonth": 514,
-    "timeYear": 504,
+    "timeDay": 464,
+    "timeWeek": 475,
+    "timeMonth": 511,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2022-05-06": 98
+      "2022-05-06": 139
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "$URLS_NZBGET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzbget",
-    "status": "down",
-    "uptime": "92.34%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "92.34%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "92.34%",
-    "time": 925,
-    "timeDay": 925,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "status": "up",
+    "uptime": "88.67%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "88.67%",
+    "uptimeMonth": "88.67%",
+    "uptimeYear": "88.67%",
+    "time": 892,
+    "timeDay": 892,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2022-05-06": 75
+      "2022-05-06": 115
     }
   },
   {
@@ -290,7 +290,7 @@
     "timeMonth": 489,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2022-05-06": 928,
+      "2022-05-06": 969,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
