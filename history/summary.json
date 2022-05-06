@@ -238,19 +238,19 @@
     "url": "$URLS_RADARR4K",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr4k",
-    "status": "down",
-    "uptime": "80.38%",
-    "uptimeDay": "80.38%",
-    "uptimeWeek": "80.38%",
-    "uptimeMonth": "80.38%",
-    "uptimeYear": "80.38%",
-    "time": 659,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 659,
+    "status": "up",
+    "uptime": "71.98%",
+    "uptimeDay": "71.98%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "71.98%",
+    "uptimeYear": "71.98%",
+    "time": 660,
+    "timeDay": 676,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2022-05-06": 105
+      "2022-05-06": 168
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 485,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2022-05-06": 488,
+      "2022-05-06": 552,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
