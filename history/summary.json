@@ -150,9 +150,9 @@
     "slug": "deluge",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 477,
@@ -160,7 +160,7 @@
     "timeMonth": 514,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 24
     }
   },
   {
@@ -168,18 +168,20 @@
     "url": "$URLS_NZBGET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzbget",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 925,
     "timeDay": 925,
     "timeWeek": 925,
     "timeMonth": 925,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "NZBHydra2",
@@ -306,7 +308,7 @@
     "timeMonth": 487,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2022-05-06": 831,
+      "2022-05-06": 854,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
