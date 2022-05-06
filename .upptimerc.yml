@@ -25,9 +25,9 @@ sites:
   - name: Overseerr
     url: $URLS_OVERSEERR
     slug: overseerr
-  - name: PetIO
-    url: $URLS_PETIO
-    slug: petio
+  #- name: PetIO
+   # url: $URLS_PETIO
+    #slug: petio
   - name: Deluge
     url: $URLS_DELUGE
     slug: deluge
