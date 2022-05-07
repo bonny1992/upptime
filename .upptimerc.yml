@@ -16,9 +16,9 @@ sites:
     url: $URLS_PROWLARR
     slug: prowlarr
 #   Continua a dare problemi
-  - name: Prowlarr2
-    url: $URLS_PROWLARR2
-    slug: prowlarr2
+  #- name: Prowlarr2
+  #  url: $URLS_PROWLARR2
+  #  slug: prowlarr2
   - name: Ombi
     url: $URLS_OMBI
     slug: ombi
