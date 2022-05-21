@@ -22,9 +22,9 @@
     "url": "$URLS_BGLASS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bonosaglass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1243,
     "timeMonth": 1354,
     "timeYear": 1319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 0
+    }
   },
   {
     "name": "Jackett",
@@ -133,11 +135,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nzbget",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 1004,
     "timeDay": 748,
     "timeWeek": 976,
@@ -272,7 +274,7 @@
     "timeMonth": 495,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-05-21": 29,
+      "2022-05-21": 932,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
