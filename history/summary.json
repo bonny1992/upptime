@@ -4,18 +4,20 @@
     "url": "$URLS_AFFILIATE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "affiliate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 425,
-    "timeWeek": 625,
-    "timeMonth": 559,
-    "timeYear": 616,
-    "dailyMinutesDown": {}
+    "time": 613,
+    "timeDay": 248,
+    "timeWeek": 556,
+    "timeMonth": 544,
+    "timeYear": 614,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "Bonosaglass.com",
@@ -23,7 +25,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bonosaglass-com",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.64%",
@@ -98,18 +100,20 @@
     "url": "$URLS_OVERSEERR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1019,
-    "timeDay": 786,
-    "timeWeek": 1001,
-    "timeMonth": 964,
-    "timeYear": 990,
-    "dailyMinutesDown": {}
+    "time": 1017,
+    "timeDay": 431,
+    "timeWeek": 885,
+    "timeMonth": 938,
+    "timeYear": 988,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "Deluge",
@@ -276,7 +280,7 @@
     "timeMonth": 441,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-06-15": 33,
+      "2022-06-15": 1311,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
