@@ -4,18 +4,20 @@
     "url": "$URLS_AFFILIATE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "affiliate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 454,
-    "timeWeek": 523,
-    "timeMonth": 545,
-    "timeYear": 613,
-    "dailyMinutesDown": {}
+    "time": 611,
+    "timeDay": 391,
+    "timeWeek": 491,
+    "timeMonth": 532,
+    "timeYear": 612,
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "Bonosaglass.com",
@@ -98,18 +100,20 @@
     "url": "$URLS_OVERSEERR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 687,
-    "timeWeek": 789,
-    "timeMonth": 912,
-    "timeYear": 983,
-    "dailyMinutesDown": {}
+    "time": 1012,
+    "timeDay": 585,
+    "timeWeek": 738,
+    "timeMonth": 891,
+    "timeYear": 981,
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "Deluge",
@@ -276,7 +280,7 @@
     "timeMonth": 445,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-06-17": 26,
+      "2022-06-17": 345,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
