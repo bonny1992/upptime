@@ -26,9 +26,9 @@
     "url": "$URLS_BGLASS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bonosaglass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "83.94%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "99.07%",
@@ -38,6 +38,7 @@
     "timeMonth": 1054,
     "timeYear": 1262,
     "dailyMinutesDown": {
+      "2022-09-17": 0,
       "2022-09-12": 417,
       "2022-09-11": 1201,
       "2022-07-06": 386,
@@ -308,7 +309,7 @@
     "timeMonth": 445,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2022-09-17": 34,
+      "2022-09-17": 525,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
