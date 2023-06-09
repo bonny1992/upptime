@@ -1,7 +1,7 @@
 url: $URLS_SYNCLOUNGE
 status: down
-code: 502
-responseTime: 375
-lastUpdated: 2023-06-08T23:18:15.184Z
+code: 404
+responseTime: 385
+lastUpdated: 2023-06-09T23:17:50.589Z
 startTime: Thu Apr 29 2021 01:06:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
