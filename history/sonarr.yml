@@ -1,7 +1,7 @@
 url: $URLS_SONARR
 status: up
 code: 200
-responseTime: 702
-lastUpdated: 2023-12-07T23:18:25.947Z
+responseTime: 500
+lastUpdated: 2023-12-08T23:17:56.266Z
 startTime: 2021-04-28T17:39:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
