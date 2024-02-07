@@ -1,7 +1,7 @@
 url: $URLS_PLEXPY
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2024-02-06T23:17:10.918Z
+status: down
+code: 500
+responseTime: 650
+lastUpdated: 2024-02-07T03:26:26.337Z
 startTime: 2022-05-05T23:11:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
