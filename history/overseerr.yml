@@ -1,7 +1,7 @@
 url: $URLS_OVERSEERR
-status: down
-code: 404
-responseTime: 496
-lastUpdated: 2024-03-14T16:36:56.787Z
+status: up
+code: 200
+responseTime: 1532
+lastUpdated: 2024-03-14T16:43:46.072Z
 startTime: 2021-04-28T17:39:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
