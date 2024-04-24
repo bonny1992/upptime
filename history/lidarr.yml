@@ -1,7 +1,7 @@
 url: $URLS_LIDARR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-24T02:19:34.324Z
+status: up
+code: 200
+responseTime: 712
+lastUpdated: 2024-04-24T02:33:29.338Z
 startTime: 2021-04-28T18:58:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
