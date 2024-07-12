@@ -1,7 +1,7 @@
 url: $URLS_NZBGET
-status: up
-code: 200
-responseTime: 590
-lastUpdated: 2024-07-11T23:21:58.090Z
+status: down
+code: 404
+responseTime: 419
+lastUpdated: 2024-07-12T17:11:36.818Z
 startTime: 2022-05-05T23:11:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
