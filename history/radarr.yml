@@ -1,7 +1,7 @@
 url: $URLS_RADARR
 status: up
 code: 200
-responseTime: 575
-lastUpdated: 2025-02-15T23:06:05.029Z
+responseTime: 500
+lastUpdated: 2025-02-16T23:06:09.491Z
 startTime: 2021-04-28T17:39:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
