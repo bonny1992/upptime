@@ -1,7 +1,7 @@
 url: $URLS_BAZARR
-status: up
-code: 200
-responseTime: 517
-lastUpdated: 2025-02-18T23:06:26.909Z
+status: down
+code: 500
+responseTime: 390
+lastUpdated: 2025-02-18T23:44:04.875Z
 startTime: 2021-04-29T00:47:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
