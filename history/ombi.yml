@@ -1,7 +1,7 @@
 url: $URLS_OMBI
-status: down
-code: 404
-responseTime: 390
-lastUpdated: 2025-02-18T23:43:49.104Z
+status: up
+code: 200
+responseTime: 589
+lastUpdated: 2025-02-18T23:50:02.257Z
 startTime: 2021-04-28T17:39:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
