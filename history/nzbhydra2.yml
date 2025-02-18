@@ -1,7 +1,7 @@
 url: $URLS_NZBHYDRA
-status: down
-code: 500
-responseTime: 429
-lastUpdated: 2025-02-18T23:38:00.249Z
+status: up
+code: 200
+responseTime: 395
+lastUpdated: 2025-02-18T23:43:54.022Z
 startTime: 2022-05-05T23:11:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
