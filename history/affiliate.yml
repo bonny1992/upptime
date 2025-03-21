@@ -1,7 +1,7 @@
 url: $URLS_AFFILIATE
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2025-03-20T23:07:25.039Z
+status: down
+code: 404
+responseTime: 581
+lastUpdated: 2025-03-21T18:43:46.542Z
 startTime: 2022-05-05T23:11:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
