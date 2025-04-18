@@ -1,7 +1,7 @@
 url: $URLS_DELUGE
-status: down
-code: 404
-responseTime: 707
-lastUpdated: 2025-04-18T04:23:33.798Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2025-04-18T04:34:56.687Z
 startTime: 2021-04-28T17:39:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
