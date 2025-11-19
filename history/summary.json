@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "affiliate",
     "status": "up",
-    "uptime": "69.43%",
+    "uptime": "69.44%",
     "uptimeDay": "89.76%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
@@ -30,17 +30,16 @@
     "slug": "bonosaglass-com",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "99.82%",
     "time": 1006,
     "timeDay": 1177,
     "timeWeek": 924,
-    "timeMonth": 976,
+    "timeMonth": 977,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-11-18": 8,
       "2025-11-07": 17,
       "2025-11-03": 35,
       "2025-10-31": 502,
@@ -757,7 +756,8 @@
     "timeMonth": 631,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-11-18": 1410,
+      "2025-11-19": 2,
+      "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1120,8 +1120,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
