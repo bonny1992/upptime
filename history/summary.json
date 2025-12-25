@@ -29,8 +29,8 @@
     "slug": "bonosaglass-com",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.75%",
     "time": 1013,
@@ -39,7 +39,7 @@
     "timeMonth": 1053,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2025-12-25": 0,
+      "2025-12-25": 2,
       "2025-12-11": 40,
       "2025-12-10": 127,
       "2025-12-09": 53,
@@ -737,7 +737,7 @@
     "timeMonth": 645,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-12-25": 1,
+      "2025-12-25": 2,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
