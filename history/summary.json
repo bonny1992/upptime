@@ -32,17 +32,17 @@
     "slug": "bonosaglass-com",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "86.99%",
-    "uptimeWeek": "93.64%",
+    "uptimeDay": "87.17%",
+    "uptimeWeek": "93.66%",
     "uptimeMonth": "95.66%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.45%",
     "time": 999,
     "timeDay": 815,
     "timeWeek": 862,
     "timeMonth": 857,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2026-04-08": 188,
+      "2026-04-08": 185,
       "2026-04-07": 273,
       "2026-04-06": 102,
       "2026-04-04": 16,
@@ -92,7 +92,8 @@
       "2026-01-08": 19,
       "2026-01-03": 34,
       "2025-12-29": 35,
-      "2025-12-27": 29
+      "2025-12-27": 29,
+      "2025-12-25": 33
     }
   },
   {
@@ -101,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jackett",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
@@ -291,7 +292,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deluge",
     "status": "up",
-    "uptime": "75.89%",
+    "uptime": "75.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
@@ -341,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nzbget",
     "status": "up",
-    "uptime": "70.82%",
+    "uptime": "70.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
@@ -627,7 +628,8 @@
     "timeMonth": 592,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-04-08": 1400,
+      "2026-04-09": 7,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -990,8 +992,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -1000,7 +1001,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "synclounge",
     "status": "up",
-    "uptime": "31.47%",
+    "uptime": "31.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
