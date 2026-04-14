@@ -31,16 +31,16 @@
     "url": "$URLS_BGLASS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bonosaglass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "83.74%",
-    "uptimeWeek": "88.14%",
+    "uptimeDay": "85.02%",
+    "uptimeWeek": "88.33%",
     "uptimeMonth": "93.98%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 993,
-    "timeDay": 833,
-    "timeWeek": 830,
-    "timeMonth": 839,
+    "timeDay": 867,
+    "timeWeek": 829,
+    "timeMonth": 838,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2026-04-14": 215,
@@ -77,7 +77,7 @@
       "2026-03-08": 74,
       "2026-03-07": 49,
       "2026-03-06": 59,
-      "2026-03-05": 83
+      "2026-03-05": 18
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeDay": 971,
     "timeWeek": 1091,
     "timeMonth": 956,
-    "timeYear": 1049,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2026-03-30": 55,
       "2026-03-29": 1,
@@ -137,7 +137,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "95.04%",
-    "time": 651,
+    "time": 652,
     "timeDay": 614,
     "timeWeek": 691,
     "timeMonth": 618,
@@ -236,7 +236,7 @@
     "timeDay": 1270,
     "timeWeek": 1450,
     "timeMonth": 1282,
-    "timeYear": 1193,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2026-04-10": 20,
       "2026-03-26": 68,
@@ -286,7 +286,7 @@
     "timeDay": 461,
     "timeWeek": 525,
     "timeMonth": 493,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2026-03-30": 55,
       "2026-03-29": 1,
@@ -514,7 +514,7 @@
     "timeDay": 458,
     "timeWeek": 521,
     "timeMonth": 469,
-    "timeYear": 532,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2026-03-25": 68,
       "2025-12-09": 36,
@@ -613,7 +613,7 @@
     "timeMonth": 612,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-04-14": 1330,
+      "2026-04-14": 1388,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -1092,7 +1092,7 @@
     "timeDay": 718,
     "timeWeek": 807,
     "timeMonth": 719,
-    "timeYear": 758,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2026-03-25": 68,
       "2025-12-09": 36,
