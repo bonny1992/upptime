@@ -12,7 +12,7 @@
     "uptimeYear": "99.92%",
     "time": 723,
     "timeDay": 964,
-    "timeWeek": 727,
+    "timeWeek": 762,
     "timeMonth": 583,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -33,14 +33,14 @@
     "url": "$URLS_BGLASS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bonosaglass-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "87.95%",
-    "uptimeWeek": "77.18%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "76.94%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "99.06%",
     "time": 962,
-    "timeDay": 756,
+    "timeDay": 793,
     "timeWeek": 785,
     "timeMonth": 819,
     "timeYear": 955,
@@ -89,7 +89,7 @@
       "2026-06-05": 131,
       "2026-06-06": 150,
       "2026-06-07": 403,
-      "2026-06-08": 172
+      "2026-06-08": 196
     }
   },
   {
@@ -105,7 +105,7 @@
     "uptimeYear": "99.94%",
     "time": 1041,
     "timeDay": 1072,
-    "timeWeek": 1023,
+    "timeWeek": 1039,
     "timeMonth": 996,
     "timeYear": 1034,
     "dailyMinutesDown": {
@@ -132,7 +132,7 @@
     "uptimeYear": "99.95%",
     "time": 670,
     "timeDay": 1047,
-    "timeWeek": 932,
+    "timeWeek": 950,
     "timeMonth": 943,
     "timeYear": 674,
     "dailyMinutesDown": {
@@ -158,7 +158,7 @@
     "uptimeYear": "99.96%",
     "time": 503,
     "timeDay": 541,
-    "timeWeek": 508,
+    "timeWeek": 519,
     "timeMonth": 494,
     "timeYear": 501,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "99.94%",
     "time": 1239,
     "timeDay": 1957,
-    "timeWeek": 1825,
+    "timeWeek": 1866,
     "timeMonth": 1725,
     "timeYear": 1227,
     "dailyMinutesDown": {
@@ -209,7 +209,7 @@
     "uptimeYear": "99.96%",
     "time": 498,
     "timeDay": 526,
-    "timeWeek": 499,
+    "timeWeek": 515,
     "timeMonth": 474,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -234,7 +234,7 @@
     "uptimeYear": "99.96%",
     "time": 504,
     "timeDay": 523,
-    "timeWeek": 486,
+    "timeWeek": 500,
     "timeMonth": 473,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -259,7 +259,7 @@
     "uptimeYear": "99.95%",
     "time": 940,
     "timeDay": 1027,
-    "timeWeek": 916,
+    "timeWeek": 933,
     "timeMonth": 917,
     "timeYear": 937,
     "dailyMinutesDown": {
@@ -285,7 +285,7 @@
     "uptimeYear": "99.95%",
     "time": 650,
     "timeDay": 1055,
-    "timeWeek": 966,
+    "timeWeek": 994,
     "timeMonth": 931,
     "timeYear": 657,
     "dailyMinutesDown": {
@@ -311,7 +311,7 @@
     "uptimeYear": "99.95%",
     "time": 650,
     "timeDay": 1032,
-    "timeWeek": 966,
+    "timeWeek": 994,
     "timeMonth": 928,
     "timeYear": 657,
     "dailyMinutesDown": {
@@ -337,7 +337,7 @@
     "uptimeYear": "99.97%",
     "time": 526,
     "timeDay": 523,
-    "timeWeek": 492,
+    "timeWeek": 507,
     "timeMonth": 505,
     "timeYear": 514,
     "dailyMinutesDown": {
@@ -384,11 +384,12 @@
     "uptimeYear": "0.00%",
     "time": 645,
     "timeDay": 1032,
-    "timeWeek": 947,
+    "timeWeek": 974,
     "timeMonth": 921,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2026-06-08": 1416,
+      "2026-06-09": 1,
+      "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -751,8 +752,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 1440,
-      "2025-06-09": 1440
+      "2025-06-10": 1440
     }
   },
   {
@@ -768,7 +768,7 @@
     "uptimeYear": "99.96%",
     "time": 646,
     "timeDay": 1047,
-    "timeWeek": 966,
+    "timeWeek": 997,
     "timeMonth": 926,
     "timeYear": 651,
     "dailyMinutesDown": {
@@ -792,7 +792,7 @@
     "uptimeYear": "99.97%",
     "time": 644,
     "timeDay": 1037,
-    "timeWeek": 965,
+    "timeWeek": 995,
     "timeMonth": 922,
     "timeYear": 650,
     "dailyMinutesDown": {
@@ -815,7 +815,7 @@
     "uptimeYear": "99.97%",
     "time": 786,
     "timeDay": 528,
-    "timeWeek": 567,
+    "timeWeek": 495,
     "timeMonth": 1008,
     "timeYear": 763,
     "dailyMinutesDown": {
