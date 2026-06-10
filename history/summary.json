@@ -6,8 +6,8 @@
     "slug": "affiliate",
     "status": "down",
     "uptime": "73.57%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
     "time": 805,
@@ -26,7 +26,7 @@
       "2026-04-10": 21,
       "2026-04-20": 16,
       "2026-04-23": 60,
-      "2026-06-10": 3
+      "2026-06-10": 6
     }
   },
   {
@@ -37,7 +37,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "59.22%",
-    "uptimeWeek": "73.88%",
+    "uptimeWeek": "73.91%",
     "uptimeMonth": "90.11%",
     "uptimeYear": "98.99%",
     "time": 961,
@@ -98,8 +98,8 @@
     "slug": "jackett",
     "status": "down",
     "uptime": "95.63%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 1040,
@@ -116,7 +116,7 @@
       "2026-03-26": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 3
+      "2026-06-10": 6
     }
   },
   {
@@ -126,8 +126,8 @@
     "slug": "prowlarr",
     "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 671,
@@ -143,7 +143,7 @@
       "2026-03-26": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 2
+      "2026-06-10": 6
     }
   },
   {
@@ -153,8 +153,8 @@
     "slug": "ombi",
     "status": "down",
     "uptime": "77.61%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 503,
@@ -169,7 +169,7 @@
       "2026-03-25": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 2
+      "2026-06-10": 5
     }
   },
   {
@@ -179,9 +179,9 @@
     "slug": "overseerr",
     "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 1240,
     "timeDay": 1434,
@@ -196,7 +196,7 @@
       "2026-03-26": 68,
       "2026-04-10": 20,
       "2026-04-23": 59,
-      "2026-06-10": 2
+      "2026-06-10": 5
     }
   },
   {
@@ -205,10 +205,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deluge",
     "status": "down",
-    "uptime": "76.70%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptime": "76.69%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 498,
     "timeDay": 438,
@@ -222,7 +222,7 @@
       "2026-03-25": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 2
+      "2026-06-10": 5
     }
   },
   {
@@ -232,9 +232,9 @@
     "slug": "nzbget",
     "status": "down",
     "uptime": "72.03%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 505,
     "timeDay": 394,
@@ -248,7 +248,7 @@
       "2026-03-25": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 2
+      "2026-06-10": 5
     }
   },
   {
@@ -258,9 +258,9 @@
     "slug": "nzbhydra2",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 939,
     "timeDay": 778,
@@ -275,7 +275,7 @@
       "2026-03-26": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 1
+      "2026-06-10": 5
     }
   },
   {
@@ -285,9 +285,9 @@
     "slug": "sonarr",
     "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 650,
     "timeDay": 611,
@@ -302,7 +302,7 @@
       "2026-03-26": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 1
+      "2026-06-10": 4
     }
   },
   {
@@ -312,9 +312,9 @@
     "slug": "radarr",
     "status": "down",
     "uptime": "94.84%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 651,
     "timeDay": 762,
@@ -329,7 +329,7 @@
       "2026-03-26": 68,
       "2026-03-30": 55,
       "2026-03-29": 1,
-      "2026-06-10": 1
+      "2026-06-10": 4
     }
   },
   {
@@ -396,7 +396,7 @@
     "timeMonth": 921,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2026-06-10": 22,
+      "2026-06-10": 26,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
