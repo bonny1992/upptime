@@ -1,7 +1,7 @@
 url: $URLS_BGLASS
-status: up
-code: 200
-responseTime: 687
-lastUpdated: 2026-06-11T05:00:33.024Z
+status: down
+code: 415
+responseTime: 465
+lastUpdated: 2026-06-11T06:39:19.004Z
 startTime: 2021-04-28T17:39:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
