@@ -34,16 +34,16 @@
     "url": "$URLS_BGLASS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bonosaglass-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "75.99%",
-    "uptimeWeek": "77.47%",
-    "uptimeMonth": "85.97%",
-    "uptimeYear": "98.77%",
-    "time": 952,
-    "timeDay": 752,
-    "timeWeek": 779,
-    "timeMonth": 798,
+    "uptimeDay": "71.08%",
+    "uptimeWeek": "77.05%",
+    "uptimeMonth": "85.80%",
+    "uptimeYear": "98.75%",
+    "time": 951,
+    "timeDay": 751,
+    "timeWeek": 784,
+    "timeMonth": 797,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2026-05-12": 29,
@@ -78,7 +78,7 @@
       "2026-06-13": 160,
       "2026-06-14": 453,
       "2026-06-15": 79,
-      "2026-06-16": 347
+      "2026-06-16": 417
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeDay": 1082,
     "timeWeek": 915,
     "timeMonth": 990,
-    "timeYear": 1031,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2025-06-18": 21,
       "2025-11-16": 20,
@@ -177,7 +177,7 @@
     "timeDay": 1966,
     "timeWeek": 1638,
     "timeMonth": 1734,
-    "timeYear": 1237,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-06-18": 21,
       "2025-11-16": 20,
@@ -204,7 +204,7 @@
     "timeDay": 506,
     "timeWeek": 444,
     "timeMonth": 473,
-    "timeYear": 492,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-06-18": 21,
       "2025-11-16": 20,
@@ -230,7 +230,7 @@
     "timeDay": 507,
     "timeWeek": 436,
     "timeMonth": 471,
-    "timeYear": 494,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2025-06-18": 21,
       "2025-11-16": 20,
@@ -386,7 +386,7 @@
     "timeMonth": 914,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2026-06-16": 1325,
+      "2026-06-16": 1396,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -759,7 +759,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "synclounge",
     "status": "up",
-    "uptime": "33.99%",
+    "uptime": "34.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -815,7 +815,7 @@
     "timeDay": 498,
     "timeWeek": 419,
     "timeMonth": 859,
-    "timeYear": 756,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-06-18": 21,
       "2025-11-16": 20,
