@@ -33,19 +33,19 @@
     "url": "$URLS_BGLASS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bonosaglass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "70.67%",
-    "uptimeWeek": "77.75%",
-    "uptimeMonth": "84.25%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "77.74%",
+    "uptimeMonth": "84.64%",
+    "uptimeYear": "98.72%",
     "time": 935,
     "timeDay": 736,
-    "timeWeek": 764,
+    "timeWeek": 759,
     "timeMonth": 782,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2026-06-11": 382,
+      "2026-06-11": 212,
       "2026-06-12": 523,
       "2026-06-13": 160,
       "2026-06-14": 453,
@@ -65,7 +65,7 @@
       "2026-06-28": 410,
       "2026-06-29": 194,
       "2026-06-30": 190,
-      "2026-07-01": 421
+      "2026-07-01": 422
     }
   },
   {
@@ -362,7 +362,7 @@
     "timeMonth": 893,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-07-01": 1416,
+      "2026-07-01": 1429,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
