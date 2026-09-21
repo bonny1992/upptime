@@ -36,8 +36,8 @@
     "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "80.29%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "98.28%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "98.38%",
     "time": 917,
     "timeDay": 821,
@@ -92,7 +92,7 @@
       "2026-09-19": 65,
       "2026-09-18": 17,
       "2026-09-20": 300,
-      "2026-09-21": 1
+      "2026-09-21": 15
     }
   },
   {
@@ -154,7 +154,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ombi",
     "status": "up",
-    "uptime": "78.77%",
+    "uptime": "78.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -389,7 +389,7 @@
     "timeMonth": 890,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2026-09-21": 102,
+      "2026-09-21": 116,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
