@@ -14,7 +14,7 @@
     "timeDay": 605,
     "timeWeek": 524,
     "timeMonth": 572,
-    "timeYear": 753,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-11-18": 147,
@@ -33,16 +33,16 @@
     "url": "$URLS_BGLASS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bonosaglass-com",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "98.25%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "90.42%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "98.22%",
     "time": 912,
-    "timeDay": 1272,
-    "timeWeek": 929,
-    "timeMonth": 996,
+    "timeDay": 1093,
+    "timeWeek": 928,
+    "timeMonth": 994,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2026-06-28": 55,
@@ -95,7 +95,7 @@
       "2026-09-21": 323,
       "2026-09-23": 190,
       "2026-09-26": 290,
-      "2026-09-27": 1
+      "2026-09-27": 163
     }
   },
   {
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jackett",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -233,7 +233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nzbget",
     "status": "up",
-    "uptime": "73.94%",
+    "uptime": "73.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -242,7 +242,7 @@
     "timeDay": 478,
     "timeWeek": 431,
     "timeMonth": 461,
-    "timeYear": 479,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-12-09": 36,
@@ -293,7 +293,7 @@
     "timeDay": 968,
     "timeWeek": 859,
     "timeMonth": 908,
-    "timeYear": 730,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-12-09": 36,
@@ -319,7 +319,7 @@
     "timeDay": 951,
     "timeWeek": 864,
     "timeMonth": 913,
-    "timeYear": 732,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-12-09": 36,
@@ -392,7 +392,7 @@
     "timeMonth": 897,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2026-09-27": 1226,
+      "2026-09-27": 1389,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -774,7 +774,7 @@
     "timeDay": 936,
     "timeWeek": 850,
     "timeMonth": 898,
-    "timeYear": 725,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-12-09": 36,
@@ -797,7 +797,7 @@
     "timeDay": 938,
     "timeWeek": 852,
     "timeMonth": 902,
-    "timeYear": 725,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-11-16": 20,
       "2025-12-09": 36,
