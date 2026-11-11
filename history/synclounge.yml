@@ -1,7 +1,7 @@
 url: $URLS_SYNCLOUNGE
-status: down
-code: 404
-responseTime: 377
-lastUpdated: 2026-11-11T09:32:16.742Z
+status: up
+code: 200
+responseTime: 723
+lastUpdated: 2026-11-11T17:22:51.037Z
 startTime: 2021-04-29T01:06:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
