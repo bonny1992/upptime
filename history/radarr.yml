@@ -1,7 +1,7 @@
 url: $URLS_RADARR
-status: down
-code: 404
-responseTime: 388
-lastUpdated: 2026-11-11T09:31:17.202Z
+status: up
+code: 200
+responseTime: 745
+lastUpdated: 2026-11-11T17:22:27.238Z
 startTime: 2021-04-28T17:39:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
